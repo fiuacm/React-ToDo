@@ -1,4 +1,6 @@
-React-ToDo
+# React-ToDo (Finished) 
+
+> This is the finished App, to start from scratch please go here https://github.com/fiuacm/React-Todo-Setup
 
 > A simple ToDo-List built with MongoDB (Database), ExpressJs (Server), ReactJS (Front-End), NodeJS (Back-end driver).The simple app can be built from scratch by following the guidelines here and comments through the code.
 
