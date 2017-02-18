@@ -133,7 +133,7 @@ class ListHolder extends React.Component {
     let completedtodos = todos.filter(todo => todo.completed);
     todos = todos.filter(todo => !todo.completed);
     return <div>
-      <h3 className="text-center">ToDo\'s</h3>
+      <h3 className="text-center">ToDos</h3>
       <form style={styles.center} className="input-group" onSubmit={this.handleSubmit}>
         <span className="input-group-btn">
           <button className="btn btn-secondary" type="button" onClick={this.handleSubmit}>Save</button>
